@@ -9,7 +9,7 @@ Raw data: this primary dataset used for analysis is the "Excel Project Dataset.x
 
 ### Tools
 
--Microsoft Excel - Data cleaning and Analysis and Visualization [Download here] (https://www.microsoft.com/en-gb/microsoft-365/excel)
+-Microsoft Excel - Data cleaning and Analysis and Visualization [Download here](https://www.microsoft.com/en-gb/microsoft-365/excel)
 
 ### Data Cleaning
 
